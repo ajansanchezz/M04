@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=º, initial-scale=1.0">
+    <title>Hello world</title>
+    <link rel="icon" type="image/ico" href="favicon.ico">
+</head>
+<header>
+    <h1>Hello World!</h1>
+    <h2>Mi primera página en HTML</h2>
+    <h3>Vamos a aprender muchas cosas</h3>
+       <nav>
+          <ul>
+             <li>
+                <a href="">Opción 1</a>
+             </li>
+             <li>
+                <a href="#S2A3">Sección 2-Articulo 3</a>
+             </li>
+             <li>
+                <a href="#ASIDE">Aside</a>
+             </li>
+             <li>
+                <a href="#FOOTER">Footer</a>
+             </li>
+          </ul>
+       </nav>
+ </header>
+ <body> 
+    <header>
+       <h1>Hello World!</h1>
+       <h2>Mi primera página en HTML</h2>
+       <h3>Vamos a aprender muchas cosas</h3>
+          <nav>
+             <ul>
+                <li>
+                   <a href="">Opción 1</a>
+                </li>
+                <li>
+                   <a href="#S2A3">Sección 2-Articulo 3</a>
+                </li>
+                <li>
+                   <a href="#ASIDE">Aside</a>
+                </li>
+                <li>
+                   <a href="#FOOTER">Footer</a>
+                </li>
+             </ul>
+          </nav>
+    </header>
+    <main> 
+       <h1>Main</h1>
+       <section>
+          <h2>sección 1</h2>
+          <article>
+             <h3>articulo 1</h3> 
+             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, eligendi error? Recusandae incidunt ad, consequatur earum cumque in veritatis laudantium dolore repudiandae, nihil quasi tenetur sed vero! Nam, eius vitae.</p>
+             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, temporibus expedita iure ex incidunt veniam, fugit eius omnis quidem amet error, a voluptatem eligendi molestias consequatur suscipit repellendus nobis similique.</p>
+          </article>
+          <article>
+             <h3>articulo 2</h3>
+             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit, nulla deleniti. Nisi vitae in veniam, autem dolor ad alias consequatur nemo ullam necessitatibus assumenda, suscipit aut et earum, dignissimos ipsa.</p>
+             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis molestiae voluptatum, eos officia nobis dolorem cumque modi inventore in dignissimos animi ad nihil cum praesentium quibusdam aliquid culpa ea harum.</p>
+          </article>
+       </section>
+       <section>
+          <h2>sección 2</h2>
+          <article>
+             <h3>articulo 1</h3>
+             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus quae perspiciatis, omnis ex, reprehenderit rerum quidem possimus vitae accusantium minus hic atque iure ipsam. Nemo odio velit natus ab ut.</p>
+             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure accusamus consequatur porro accusantium iusto numquam? Cum tempora aliquam aliquid nam iusto distinctio, sequi, ex optio commodi quod voluptas placeat deserunt?</p>
+          </article>
+          <article>
+             <h3>articulo 2</h3>
+             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur accusantium porro delectus facilis earum repellendus inventore quisquam, a illum dolorum magni nisi omnis unde vel laborum reiciendis! Ea, reiciendis nostrum?</p>
+             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam, harum? Quibusdam perferendis rerum eius? Suscipit esse dolorum enim cumque sunt libero autem officiis iure tempora obcaecati? Aliquam officia quos magnam.</p>
+          </article>
+          <article id="S2A3">
+             <h3>articulo 3</h3>
+             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis totam nulla quaerat, ea, nisi nostrum consequuntur ullam laboriosam, facilis corrupti facere illo iste! Iste doloribus quas consequatur. Dolores, cupiditate vero.</p>
+             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Atque veniam a explicabo. Amet sequi atque modi illo, laudantium non minima rerum unde odio provident obcaecati enim impedit consequuntur ratione nulla!</p>
+          </article>
+       </section>
+    </main>
+    <aside id="ASIDE">
+       <h2>Publicidad-Aside</h2>
+       <article>
+          <h3>Articulo de Publicidad</h3>
+          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Praesentium, tempore, aut exercitationem laboriosam officia dolor fuga distinctio ullam a impedit molestiae totam commodi accusantium accusamus nihil minus ipsum ad aspernatur?</p>
+          <a target="_blank" href="https://www.youtube.com">Youtube</a>
+       </article>
+       <article>
+          <h3>Articulo de Publicidad</h3>
+          <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea animi vero, necessitatibus sit eos sint sunt id veniam excepturi consequuntur minima quo? Nesciunt quis ullam tempore sit deleniti explicabo ad?</p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel ipsum veniam quas dolor consectetur aut, sed corrupti eos aliquid rem similique vero possimus iste id iure nemo beatae dolorum. Commodi.</p>
+          <a target="_blank" href="https://www.amazon.es">Amazon</a>
+       </article>
+    </aside>
+    <footer id="FOOTER">
+       <h2>Footer</h2><br>
+       <h3>Política de privacidad</h3><br>
+       <h3>Mapa de la web</h3><br>
+       <h3>Contacto</h3><br>
+       <i>Institut tecnològic de Barcelona</i><br>         
+       <a target="_blank" href="https://www.itb.cat">info@itb.cat</a><br>
+       <i>c/ aiguablava 121, 08033 Barcelona</i><br>
+       <i>Tlf: 937 070 020</i>
+    </footer>
+ 
+
+</body>
+</html>
